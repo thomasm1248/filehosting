@@ -1,0 +1,34 @@
+Hammock Plans
+
+* Research types of ripstop nylon.
+
+hammock
+    body
+        material
+            1.9 ripstop nylon
+        dimensions
+            width
+                48"-64"
+            height
+                User length plus 2' plus allowance for hem and whipping.
+        hem
+            Just roll the edge over to hide the raw edge to reinforce it and
+            prevent it from fraying.
+    suspension
+        option 1: cord and tree huggers
+            cord
+                breaking strength
+                    600lbs
+                elasticity
+                    Keep it low. Spectra is popular for it's low-stretch cord.
+            tree huggers
+                A tree hugger is simply a length of webbing, about 48-72", with
+                loops on each end. You wrap it around the tree, then lash the
+                cord through the loops.
+        option 2: webbing
+            length
+                10' should be good.
+            width
+                1"
+            type
+                Ed Speer's polypro cause it's low-stretch and strong.
