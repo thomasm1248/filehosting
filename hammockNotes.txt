@@ -1,11 +1,11 @@
-Hammock Plans
+Hammock Notes
 
 * Research types of ripstop nylon.
 
 hammock
     body
         material
-            1.9 ripstop nylon
+            1.9oz ripstop nylon
         dimensions
             width
                 48"-64"
