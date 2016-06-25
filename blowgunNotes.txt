@@ -1,0 +1,28 @@
+Blowgun Notes
+
+body
+    tube
+        length
+            2'
+        size
+            1/2"
+    mouth piece
+        ...
+    decor
+        Spraypaint ends, wind duct-tape around body, and wrap a small strip of
+        electrical tape around each end of the body.
+darts
+    guide
+        A small paper cone held together with tape just small enough to fit in
+        the tube.
+    tips
+        dart
+            Poke a nail out the tip of a guide then put a little hotglue in the
+            guide to hold the nail in place.
+        glass breaker
+            Fill a guide about a third of the way with hotglue, then screw a
+            wide but short screw into the tip of the guide.
+        exploding tip
+            ...
+        nothing
+            Fill a guide about a third of the way with hotglue.
