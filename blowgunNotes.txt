@@ -15,6 +15,13 @@ blowgun notes
         decor
             Spraypaint ends, wind duct-tape around body, and wrap a small strip
             of electrical tape around each end of the body.
+    quiver
+        matterial
+            foam pipe insulation
+        size
+            1/2"
+        length
+            approx. 1' - 2'
     darts
         guide
             A small paper cone held together with tape just small enough to fit
@@ -43,4 +50,11 @@ shoping list
             threaded
         small end
             slip
+    foam pipe insulation
+        size
+            1/2"
+        length
+            approx. 1' - 2'
     camo duct-tape
+    cost estamate
+        7.88
